@@ -1,0 +1,38 @@
+/*Brian Maina, 12/10, IT202-001,  Project-Part3*/
+html {
+    background-color: lightblue;
+}
+
+img {
+    padding: 10pt;
+}
+
+#head_home img {
+   float: left;
+ 
+    
+}
+
+h1, h3, #bio {
+  
+    margin-left: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+}
+#bottom {
+    text-align:center;
+    font-size: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+a {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px
+}
+#footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;            /* Footer height */
+    text-align: center;
+  }
+
