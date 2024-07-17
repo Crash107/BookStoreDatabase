@@ -1,0 +1,64 @@
+/*Brian Maina, 12/10, IT202-001,  Project-Part3*/
+html {
+    background-color: lightblue;
+}
+
+img {
+    padding: 10pt;
+}
+
+#head_home img {
+   float: left;
+ 
+    
+}
+form {
+    display: grid;
+    grid-template-columns: 1fr;
+    width: 500px;
+    height: 15px;
+ 
+ }
+ input, button {
+ 
+ border: 0;
+ }
+ input, button, label{
+     padding: 0.5em 0.75em;
+    
+     
+   }
+input, #bookcategory_id {
+    margin-left: 50px;
+}
+
+input:hover {
+    background-color: yellow;
+}
+
+label {
+    margin-left:50px;
+}
+ 
+
+h1 {
+  
+    margin-left: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px
+}
+h3 {
+  
+    margin-left: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px
+}
+p {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 10px
+}
+a {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px
+}
